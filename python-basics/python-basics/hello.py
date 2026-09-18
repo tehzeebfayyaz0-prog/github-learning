@@ -2,4 +2,4 @@ name = "Tehzeeb"
 
 print("Hello, GitHub!")
 print("My name is", name)
-print("This is my first Python file on GitHub.")
+print("I am learning Python and GitHub.")
